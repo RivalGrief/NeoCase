@@ -12,6 +12,12 @@ public class NeoCase extends JavaPlugin {
 
     @Override
     public void onEnable() {
+//      if (getServer().getPluginManager().getPlugin("PlaceholderAPI") != null) {
+//            new NeoCaseExpansion(this).register();
+//            getLogger().info("PlaceholderAPI расширение зарегистрировано!");
+//        } else {
+//          getLogger().warning("PlaceholderAPI не найден! Плейсхолдеры не будут работать.");
+//      }
         instance = this;
 
         // Сохраняем конфиг
