@@ -1,0 +1,39 @@
+name: "&6Обычный Кейс"
+animation: "roulette"
+
+items:
+  - material: "DIAMOND"
+    amount: 1
+    chance: 5.0
+    display-name: "&bАлмаз"
+    broadcast: true
+
+  - material: "GOLD_INGOT"
+    amount: 5
+    chance: 15.0
+    display-name: "&6Золотые слитки"
+    broadcast: false
+
+  - material: "IRON_SWORD"
+    amount: 1
+    chance: 30.0
+    display-name: "&7Железный меч"
+    broadcast: false
+
+  - material: "COOKED_BEEF"
+    amount: 16
+    chance: 25.0
+    display-name: "&cЖареная говядина"
+    broadcast: false
+
+  - material: "EXPERIENCE_BOTTLE"
+    amount: 5
+    chance: 15.0
+    display-name: "&aЗелье опыта"
+    broadcast: false
+
+  - material: "ENDER_PEARL"
+    amount: 3
+    chance: 10.0
+    display-name: "&dЖемчуг края"
+    broadcast: false

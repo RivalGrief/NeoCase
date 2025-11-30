@@ -1,0 +1,20 @@
+name: NeoCase
+version: 1.0.0
+main: com.neocase.neocase.NeoCase
+api-version: "1.16"
+author: NeoStudio
+description: Advanced case system for Minecraft
+
+commands:
+  neocase:
+    description: Manage cases
+    usage: /neocase <give|open|reload>
+    aliases: [nc, case]
+
+permissions:
+  neocase.admin:
+    description: Admin permissions for NeoCase
+    default: op
+  neocase.use:
+    description: Use cases
+    default: true
