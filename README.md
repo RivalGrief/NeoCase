@@ -13,7 +13,7 @@
 
 ## 🚀 Установка
 
-1. Скачайте `NeoCase-1.0.0.jar` из [Releases](https://github.com/YourName/NeoCase/releases)
+1. Скачайте `NeoCase-1.1.0.jar` из [Releases](https://github.com/YourName/NeoCase/releases)
 2. Поместите в папку `plugins/`
 3. Перезагрузите сервер
 4. Настройте конфигурацию в `plugins/NeoCase/config.yml`
